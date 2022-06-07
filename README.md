@@ -44,7 +44,7 @@ Desenvolver uma Api em Node.JS que consiga através de uma linha digitavel, vali
 
 <h3 id="decisoes"> Decisões </h3>
 	
-	<p>
+<p>
   Foi utilizado como requisitado Node.js.
 	Optei neste projeto por utilizar Docker, pela facilidade de execução sem a necessidade de uma configuração muito expecifica, também é possivel roda-lo localmente, se o node estiver configurado na maquina.  
 	</p>
